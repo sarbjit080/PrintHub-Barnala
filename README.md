@@ -1,2 +1,0 @@
-# PrintHub-Barnala
-Website files.
